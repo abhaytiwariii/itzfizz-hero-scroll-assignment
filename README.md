@@ -46,8 +46,8 @@ This requires that `next.config.mjs/ts` is configured with `output: 'export'`. T
 
 ## 🔗 Live Demo
 
-_(Replace this placeholder with the actual Vercel or GitHub Pages link)_
+https://welcome-scroll-animation.vercel.app/
 
 ## 🐙 Repository
 
-_(Replace this placeholder with the actual GitHub Repository link)_
+_(https://github.com/abhaytiwariii/itzfizz-hero-scroll-assignment)_
