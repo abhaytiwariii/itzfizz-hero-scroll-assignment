@@ -2,6 +2,11 @@
 
 This project is a high-end, production-ready Hero Section built for an Itzfizz internship assignment. It features sophisticated scroll-driven animations using GreenSock (GSAP) and a premium dark-themed visual aesthetic.
 
+
+https://github.com/user-attachments/assets/c679364e-9a21-4ee5-9b23-dbb720eeb753
+
+
+
 ## 🚀 Tech Stack
 
 - **Next.js**: App Router, static export configured.
